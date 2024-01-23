@@ -1,0 +1,18 @@
+
+Page should consist HTML heading element with text content as "Stopwatch"
+144 ms 
+Page should consist HTML button element with text content as "Start"
+75 ms 
+Page should consist two HTML button elements with text content as "Stop" and "Reset"
+84 ms 
+Page should initially consist of HTML heading element with text content as "00:00"
+26 ms 
+Page should consist of HTML image element with alt as "stopwatch" and src attribute value as the URL for the stopwatch image
+26 ms 
+When Start button is clicked, then the timer should start
+80 ms 
+When Stop button is clicked, then the timer should stop
+122 ms 
+When Reset button is clicked, then the timer should be reset to zero
+56 ms 
+When Start button is clicked after stopping the timer, then the timer should run from where it was stopped
